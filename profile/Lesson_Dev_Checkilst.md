@@ -1,0 +1,43 @@
+Hello this is a checklist to overlook your lesson.
+
+| Workbench Steps  | File | Content | Complete |
+|:---------------  | :---| :---| :--- | 
+| Setup            | config.yaml | update email section | - [ ] |
+|                  | config.yaml | update created with a date | - [ ] | 
+|                  | config.yaml | update keywords section | - [ ] |
+|                  | config.yaml | update source with github repository link | - [ ] |
+|                  | config.yaml | update type of lesson (software, carpentries, etc.) | - [ ] |
+|README Setup      | README.md | Lesson Title | - [ ] |
+|                  | README.md | Lesson Description | - [ ] |
+|                  | README.md | Lesson Authors | - [ ] |
+|Introduction      | index.md | Lesson Description | - [ ] |
+|                  | index.md | Overall Lesson Objectives | - [ ] |
+|                  | index.md | Pre-requesites | - [ ] |
+|FOR EVERY EPISODE | config.yaml | Episode File is under **episodes** section | - [ ] |
+|                  | episodes/[episode_name].md | Episode Title in the front-matter (top of the page) | - [ ] | 
+|                  | episodes/[episode_name].md | Teaching Time in the front-matter (top of the page) | - [ ] |
+|                  | episodes/[episode_name].md | Number of exercises in the front-matter (top of the page) | - [ ] |
+|                  | episodes/[episode_name].md | Episodes Objective in the form of questions and objectives | - [ ] |
+|                  | episodes/[episode_name].md | Key points at the end of the episode | - [ ] |
+|                  | episodes/fig | Any figures or images that you will be using in any episode goes here | - [ ] |
+| OPTIONAL STEPS | | | |
+| Global Links (for if you are going to use the same link multiple times) | links.md | Links in the same format as
+the given ones | - [ ] |
+| Data Sets that are going to eb referenced | episodes/data | Place your data sets in this folder | - [ ] |
+
+| Alpha Stage Checklist | Todo | Notes | Complete |
+| :-------------------- | :--- | :---- | :------- |
+| Lesson Content        | Lesson Objectives | | - [ ] |
+|                       | Setup Instructions | | - [ ] |
+|                       | Learners Profile | | - [ ] | 
+|                       | Reference | | - [ ] |
+|                       | Glossary  | | - [ ] |
+| For EACH Episode      | Episode Objectives | | - [ ] |
+| *Items starting with Episode objectives and below is for each episode! | Episode content | | - [ ] |
+|                       | Questions | | - [ ] |
+|                       | Exercises | | - [ ] |
+|                       | Solution | | - [ ] | 
+|                       | Keypoints | | - [ ] |
+| Lesson has been taught at least once | | | - [ ] |
+| Feedback from learners & co-instructors are collected | | Length, Exercise time, misconceptions/confusions, etc. | - [ ]|
+| Incorporate feedback to polish lesson | | | - [ ] |
