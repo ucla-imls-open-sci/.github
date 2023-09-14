@@ -1,5 +1,8 @@
-Name: Content Review
-Description: Request a Content Review from the IMLS Team
+name: Content Review
+description: Request a Content Review from the IMLS Team
+title: "[REVIEW]: "
+labels: ["review"]
+assignees: ["lawtlee"]
 body:
   - type: markdwon
     attributes:
