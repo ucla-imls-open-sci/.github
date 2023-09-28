@@ -8,7 +8,7 @@ Lessons that are currently in development are:
 | ---------- | ----------- | ---------- |
 | [Understanding CARE Principles for research data](https://github.com/ucla-imls-open-sci/care-for-aca) | Ria Hamblett <br/> Sarah Su <br/> Duncan Loxton | In Development |
 | [Research Community Outreach with Open Science Team Agreements](https://github.com/ucla-imls-open-sci/TeamAgreements) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | In Development |
-| [Open science hardware: an introduction for librarians]() | Julieta Arancio | In Development |
+| [Open science hardware: an introduction for librarians](https://github.com/ucla-imls-open-sci) | Julieta Arancio | In Development |
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://github.com/ucla-imls-open-sci/collaborative-science-for-librarians) | Irene Vazano <br/> Jessica Formoso | In Development |
 | [Data Management (and Sharing) Plans for Librarians 101](https://github.com/ucla-imls-open-sci/dmp101) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | In Development |
 | [Open Qualitative Research](https://github.com/ucla-imls-open-sci/open-qualitative-research) | Nathaniel Porter | In Development |
