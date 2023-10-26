@@ -6,12 +6,12 @@ Lessons that are currently in development are:
 
 | ***Lesson*** | ***Authors*** | ***Status*** |
 | ---------- | ----------- | ---------- |
-| [Research Community Outreach with Open Science Team Agreements](https://github.com/ucla-imls-open-sci/TeamAgreements) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | In Development |
-| [Open science hardware: an introduction for librarians](https://github.com/ucla-imls-open-sci) | Julieta Arancio | In Development |
-| [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://github.com/ucla-imls-open-sci/collaborative-science-for-librarians) | Irene Vazano <br/> Jessica Formoso | In Development |
-| [Data Management (and Sharing) Plans for Librarians 101](https://github.com/ucla-imls-open-sci/dmp101) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | In Development |
-| [Open Qualitative Research](https://github.com/ucla-imls-open-sci/open-qualitative-research) | Nathaniel Porter | In Development |
-| [Reproducible Research Workflows](https://github.com/ucla-imls-open-sci/reproducible-workflows) | Agata Bochynska | In Development |
+| [Research Community Outreach with Open Science Team Agreements](https://github.com/ucla-imls-open-sci/TeamAgreements) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | Alpha |
+| [Open science hardware: an introduction for librarians](https://github.com/ucla-imls-open-sci) | Julieta Arancio | pre-Alpha |
+| [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://github.com/ucla-imls-open-sci/collaborative-science-for-librarians) | Irene Vazano <br/> Jessica Formoso | Alpha|
+| [Data Management (and Sharing) Plans for Librarians 101](https://github.com/ucla-imls-open-sci/dmp101) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | Alpha |
+| [Open Qualitative Research](https://github.com/ucla-imls-open-sci/open-qualitative-research) | Nathaniel Porter | pre-Alpha |
+| [Reproducible Research Workflows](https://github.com/ucla-imls-open-sci/reproducible-workflows) | Agata Bochynska | pre-Alpha |
 
 
 
