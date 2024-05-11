@@ -4,7 +4,7 @@ and effectively collaborate with faculty and researchers in science projects usi
 
 Lessons that are currently in development are:
 
-| ***Lesson*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
+| ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
 | [Research Community Outreach with Open Science Team Agreements](https://github.com/ucla-imls-open-sci/TeamAgreements) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | Alpha | [Link](https://github.com/ucla-imls-open-sci/TeamAgreements) |
 | [Open science hardware: an introduction for librarians](https://github.com/ucla-imls-open-sci/lc-open-hw) | Julieta Arancio | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-hw) |
