@@ -4,7 +4,7 @@ and effectively collaborate with faculty and researchers in science projects usi
 
 | ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
-| [Research Community Outreach with Open Science Team Agreements](https://ucla-imls-open-sci.info/TeamAgreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | Alpha | [Link](https://github.com/ucla-imls-open-sci/TeamAgreements) |
+| [Research Community Outreach with Open Science Team Agreements](https://github.com/LibraryCarpentry/lc-team-agreements) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | Alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
 | [Open science hardware: an introduction for librarians](https://ucla-imls-open-sci.info/lc-open-hw/) | Julieta Arancio | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-hw) |
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://ucla-imls-open-sci.info/collaborative-science-for-librarians/) | Irene Vazano <br/> Jessica Formoso | Alpha | [Link](https://github.com/ucla-imls-open-sci/collaborative-science-for-librarians) |
 | [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | Alpha | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
