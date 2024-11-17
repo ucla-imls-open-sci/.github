@@ -4,12 +4,12 @@ and effectively collaborate with faculty and researchers in science projects usi
 
 | ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
-| [Research Community Outreach with Open Science Team Agreements](https://github.com/LibraryCarpentry/lc-team-agreements) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | Alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
+| [Research Community Outreach with Open Science Team Agreements](https://librarycarpentry.github.io/lc-team-agreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | Alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
 | [Open science hardware: an introduction for librarians](https://ucla-imls-open-sci.info/lc-open-hw/) | Julieta Arancio | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-hw) |
-| [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://ucla-imls-open-sci.info/collaborative-science-for-librarians/) | Irene Vazano <br/> Jessica Formoso | Alpha | [Link](https://github.com/ucla-imls-open-sci/collaborative-science-for-librarians) |
+| [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://librarycarpentry.github.io/lc-collaborative-science/) | Irene Vazano <br/> Jessica Formoso | Alpha | [Link](https://github.com/LibraryCarpentry/lc-collaborative-science) |
 | [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | Alpha | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
 | [Open Qualitative Research](https://ucla-imls-open-sci.info/open-qualitative-research/) | Nathaniel Porter | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/open-qualitative-research) |
-| [Reproducible Research Workflows](https://ucla-imls-open-sci.info/reproducible-workflows/) | Agata Bochynska | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/reproducible-workflows) |
+| [Reproducible Research Workflows](https://librarycarpentry.github.io/lc-reproducible-research/) | Agata Bochynska | pre-Alpha | [Link](https://github.com/LibraryCarpentry/lc-reproducible-research) |
 | Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians | Daniel Kerchner | pre-Alpha | |
 | Collaborative Multilingual Search and Discovery Systems | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-Alpha | |
 | Authoring Open Science | Kathryn Miller <br/> Andrea Medina-Smith | pre-Alpha |  |
@@ -17,8 +17,6 @@ and effectively collaborate with faculty and researchers in science projects usi
 | Leveraging Open Research and Contributor IDs (ORCID) for Librarians | Levi Dolan <br/> Mirian Ramirez <br/> Hannah Craven | pre-Alpha |  |
 | Open Science Discovery Engines: Empowering Librarian Use Through a Case Study Exploration of the NASA Science Explorer | Katie Frey <br/> Jennifer Lynn Bartlett <br/> Stephanie Jarmak | pre-Alpha |  |
 | Creating Data Dashboards for Open Science Using the R Programming Language | Aditya Ranganath | pre-Alpha |  |
-
-
 
 
 
