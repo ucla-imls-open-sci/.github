@@ -8,7 +8,7 @@ and effectively collaborate with faculty and researchers in science projects usi
 | [Open science hardware: an introduction for librarians](https://ucla-imls-open-sci.info/lc-open-hw/) | Julieta Arancio | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-hw) |
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://librarycarpentry.github.io/lc-collaborative-science/) | Irene Vazano <br/> Jessica Formoso | Alpha | [Link](https://github.com/LibraryCarpentry/lc-collaborative-science) |
 | [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | Alpha | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
-| [Open Qualitative Research](https://ucla-imls-open-sci.info/open-qualitative-research/) | Nathaniel Porter | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/open-qualitative-research) |
+| [Open Qualitative Research](https://ucla-imls-open-sci.info/open-qualitative-research/) | Nathaniel Porter | pre-Alpha | [Link](https://github.com/LibraryCarpentry/lc-open-qualitative-research) |
 | [Reproducible Research Workflows](https://librarycarpentry.github.io/lc-reproducible-research/) | Agata Bochynska | pre-Alpha | [Link](https://github.com/LibraryCarpentry/lc-reproducible-research) |
 | Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians | Daniel Kerchner | pre-Alpha | |
 | Collaborative Multilingual Search and Discovery Systems | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-Alpha | |
