@@ -1,6 +1,6 @@
-Hello this is the UCLA IMLS Open Science github. Our goal is develop and create 14 Open Science Lessons for librarians to use and learn from. 
+Hello, this is the UCLA IMLS Open Science GitHub. Our goal is to develop and create 14 Open Science Lessons for librarians to use and learn from. 
 These lessons seek to support continued skills development for librarians in open science to effectively provide instruction to new researchers 
-and effectively collaborate with faculty and researchers in science projects using open science practices. In here you will find these Open Science Lessons in and out of development using the Carpentries Workbench.
+and collaborate with faculty and researchers in science projects using open science practices. In here, you will find these Open Science Lessons in and out of development using the Carpentries Workbench.
 
 | ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
@@ -14,6 +14,7 @@ and effectively collaborate with faculty and researchers in science projects usi
 | [Collaborative Multilingual Search and Discovery Systems](http://ucla-imls-open-sci.info/lc-multilingual-search-discovery-system/) | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-Alpha | |
 | Authoring Open Science | Kathryn Miller <br/> Andrea Medina-Smith | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
 | [A Gentle, Hands-on Introduction to Containers and Virtual Machines](https://ual-re.github.io/lc-containers_vms/) | Fernando Rios <br/> Jeffrey Oliver | pre-Alpha | [Link](https://github.com/UAL-RE/lc-containers_vms) |
-| [Leveraging Open Research and Contributor IDs (ORCID) for Librarians](https://firbolg.github.io/LC_ORCID/) | Levi Dolan <br/> Mirian Ramirez <br/> Hannah Craven | pre-Alpha |  |
+| [Leveraging Open Research and Contributor IDs (ORCID) for Librarians](https://firbolg.github.io/LC_ORCID/) | Levi Dolan <br/> Mirian Ramirez <br/> Hannah Craven | pre-Alpha | [Link](https://github.com/firbolg/LC_ORCID)  |
 | [Open Science Discovery Engines: Empowering Librarian Use Through a Case Study Exploration of the NASA Science Explorer](http://ucla-imls-open-sci.info/lc-scix-open-science/) | Katie Frey <br/> Jennifer Lynn Bartlett <br/> Stephanie Jarmak | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-scix-open-science) |
-| Creating Data Dashboards for Open Science Using the R Programming Language | Aditya Ranganath | pre-Alpha |  |
+| [Creating Data Dashboards for Open Science Using the R Programming Language](https://aranganath24.github.io/data-dashboard-carpentries/) | Aditya Ranganath | pre-Alpha | [Link](https://github.com/aranganath24/data-dashboard-carpentries) |
+| [Building an Open Science Community of Practice](https://ucla-imls-open-sci.info/lc-open-science-community-of-practice/) | Camille Smith | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-science-community-of-practice) | 
