@@ -5,7 +5,6 @@ and collaborate with faculty and researchers in science projects using open scie
 | ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
 | [Research Community Outreach with Open Science Team Agreements](https://librarycarpentry.github.io/lc-team-agreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
-| [Open science hardware: an introduction for librarians](https://ucla-imls-open-sci.info/lc-open-hw/) | Julieta Arancio | pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-hw) |
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://librarycarpentry.github.io/lc-collaborative-science/) | Irene Vazano <br/> Jessica Formoso | alpha | [Link](https://github.com/LibraryCarpentry/lc-collaborative-science) |
 | [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | Alpha | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
 | [Open Qualitative Research](https://librarycarpentry.github.io/lc-open-qualitative-research/) | Nathaniel Porter | alpha | [Link](https://github.com/LibraryCarpentry/lc-open-qualitative-research) |
@@ -18,3 +17,4 @@ and collaborate with faculty and researchers in science projects using open scie
 | [Open Science Discovery Engines: Empowering Librarian Use Through a Case Study Exploration of the NASA Science Explorer](http://ucla-imls-open-sci.info/lc-scix-open-science/) | Katie Frey <br/> Jennifer Lynn Bartlett <br/> Stephanie Jarmak | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-scix-open-science) |
 | [Creating Data Dashboards for Open Science Using the R Programming Language](https://aranganath24.github.io/data-dashboard-carpentries/) | Aditya Ranganath | pre-Alpha | [Link](https://github.com/aranganath24/data-dashboard-carpentries) |
 | [Building an Open Science Community of Practice](https://ucla-imls-open-sci.info/lc-open-science-community-of-practice/) | Camille Smith | pre-Alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-science-community-of-practice) | 
+| Open science hardware: an introduction for librarians | Julieta Arancio | pre-alpha | |
