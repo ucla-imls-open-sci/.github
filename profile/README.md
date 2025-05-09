@@ -18,3 +18,18 @@ and collaborate with faculty and researchers in science projects using open scie
 | [Research Community Outreach with Open Science Team Agreements](https://librarycarpentry.github.io/lc-team-agreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
 | [Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians](https://kerchner.github.io/lc-open-reproducible-research-cloud/) | Daniel Kerchner | pre-alpha | [Link](https://github.com/kerchner/lc-open-reproducible-research-cloud) |
 | Open science hardware: an introduction for librarians | Julieta Arancio | pre-alpha | |
+
+You can add a new section to your **Submission Checklist** that clearly points reviewers to the supporting documentation and tools created under the IMLS award. Here's a suggested addition to paste at the bottom of your existing README-style checklist:
+
+---
+
+### 🛠 Supporting Documentation and Tools
+
+In addition to the required report and attachments, we recommend referencing these resources that document infrastructure, evaluation methods, and outputs created under the award:
+
+* [📁 IMLS Tools GitHub Repository](https://github.com/ucla-imls-open-sci/imls-tools): Includes scripts, checklists, and documentation to support lesson development, such as content check scripts, metadata templates, and workbench guides.
+* [🌐 Docs Hub](https://ucla-imls-open-sci.info/ucla-imls-docs/): Centralized documentation for the IMLS Open Science Lessons project. Includes evaluation rubrics, submission templates, collaborative lesson development training materials, and resource links.
+* `UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`: Defines the lesson proposal evaluation criteria used by the review committee.
+* `UCLA-IMLS-Similarity Rubric.docx`: Used to assess topic and audience overlap between lesson submissions.
+
+These materials offer insight into the project’s methodology and may be useful for others developing similar programs.
