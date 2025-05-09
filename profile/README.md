@@ -19,8 +19,6 @@ and collaborate with faculty and researchers in science projects using open scie
 | [Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians](https://kerchner.github.io/lc-open-reproducible-research-cloud/) | Daniel Kerchner | pre-alpha | [Link](https://github.com/kerchner/lc-open-reproducible-research-cloud) |
 | Open science hardware: an introduction for librarians | Julieta Arancio | pre-alpha | |
 
-You can add a new section to your **Submission Checklist** that clearly points reviewers to the supporting documentation and tools created under the IMLS award. Here's a suggested addition to paste at the bottom of your existing README-style checklist:
-
 ---
 
 ### 🛠 Supporting Documentation and Tools
