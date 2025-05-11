@@ -7,7 +7,6 @@ and collaborate with faculty and researchers in science projects using open scie
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://librarycarpentry.github.io/lc-collaborative-science/) | Irene Vazano <br/> Jessica Formoso | alpha | [Link](https://github.com/LibraryCarpentry/lc-collaborative-science) |
 | [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | alpha | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
 | [Open Qualitative Research](https://librarycarpentry.github.io/lc-open-qualitative-research/) | Nathaniel Porter | alpha | [Link](https://github.com/LibraryCarpentry/lc-open-qualitative-research) |
-| [Collaborative Multilingual Search and Discovery Systems](http://ucla-imls-open-sci.info/lc-multilingual-search-discovery-system/) | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
 | [Authoring Open Science](https://ucla-imls-open-sci.info/lc-authoring-open-science/) | Kathryn Miller <br/> Andrea Medina-Smith | alpha | [Link](https://github.com/ucla-imls-open-sci/lc-authoring-open-science) |
 | [A Gentle, Hands-on Introduction to Containers and Virtual Machines](https://ual-re.github.io/lc-containers_vms/) | Fernando Rios <br/> Jeffrey Oliver | alpha | [Link](https://github.com/UAL-RE/lc-containers_vms) |
 | [Leveraging Open Research and Contributor IDs (ORCID) for Librarians](https://firbolg.github.io/LC_ORCID/) | Levi Dolan <br/> Mirian Ramirez <br/> Hannah Craven | alpha | [Link](https://github.com/firbolg/LC_ORCID)  |
@@ -18,6 +17,8 @@ and collaborate with faculty and researchers in science projects using open scie
 | [Research Community Outreach with Open Science Team Agreements](https://librarycarpentry.github.io/lc-team-agreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
 | [Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians](https://kerchner.github.io/lc-open-reproducible-research-cloud/) | Daniel Kerchner | pre-alpha | [Link](https://github.com/kerchner/lc-open-reproducible-research-cloud) |
 | Open science hardware: an introduction for librarians | Julieta Arancio | pre-alpha | |
+| Collaborative Multilingual Search and Discovery Systems | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
+
 
 ---
 
