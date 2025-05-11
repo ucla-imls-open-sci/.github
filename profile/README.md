@@ -19,16 +19,17 @@ and collaborate with faculty and researchers in science projects using open scie
 | Open science hardware: an introduction for librarians | Julieta Arancio | pre-alpha | |
 | Collaborative Multilingual Search and Discovery Systems | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
 
-
 ---
 
 ### 🛠 Supporting Documentation and Tools
 
-In addition to the required report and attachments, we recommend referencing these resources that document infrastructure, evaluation methods, and outputs created under the award:
+In addition to the lessons above, the following resources were produced to support curriculum development, evaluation, and training:
 
-* [📁 IMLS Tools GitHub Repository](https://github.com/ucla-imls-open-sci/imls-tools): Includes scripts, checklists, and documentation to support lesson development, such as content check scripts, metadata templates, and workbench guides.
-* [🌐 Docs Hub](https://ucla-imls-open-sci.info/ucla-imls-docs/): Centralized documentation for the IMLS Open Science Lessons project. Includes evaluation rubrics, submission templates, collaborative lesson development training materials, and resource links.
-* `UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`: Defines the lesson proposal evaluation criteria used by the review committee.
-* `UCLA-IMLS-Similarity Rubric.docx`: Used to assess topic and audience overlap between lesson submissions.
-
-These materials offer insight into the project’s methodology and may be useful for others developing similar programs.
+* [📁 IMLS Tools Repository](https://github.com/ucla-imls-open-sci/imls-tools): Scripts, templates, and automation tools for lesson development and metadata validation.
+* [🌐 Docs Hub](https://ucla-imls-open-sci.info/ucla-imls-docs/): Author-facing documentation including onboarding, SMART objective guides, and Workbench usage tips.
+* [`UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`](https://github.com/ucla-imls-open-sci/.github/blob/main/UCLA-IMLS%20Open%20Science%20Librarians%20Evaluation%20Criteria_2024.docx): Final proposal evaluation rubric used by the review committee.
+* [`Lesson_Dev_Checkilst.md`](https://github.com/ucla-imls-open-sci/.github/blob/main/Lesson_Dev_Checkilst.md): Checklist used by authors to review lesson readiness for Carpentries Workbench.
+* [`Lesson Design Notes Template.pdf`](https://github.com/ucla-imls-open-sci/.github/blob/main/Lesson%20Design%20Notes%20Template.pdf) and [`Python Intro Example`](https://github.com/ucla-imls-open-sci/.github/blob/main/Lesson%20Design%20Notes%20Template_%20Python%20Intro%20for%20Libraries.pdf): Scaffolding templates used in seminar sessions.
+* [`Collaborative Multilingual Search and Discovery Systems (PDF)`](https://github.com/ucla-imls-open-sci/.github/blob/main/Lesson%20Design_%20Collaborative%20Multilingual%20Search%20and%20Discovery%20Systems.pd): Completed lesson draft submitted in lieu of Workbench transfer.
+* [`submission_template.pdf`](https://github.com/ucla-imls-open-sci/.github/blob/main/submission_template.pdf): Template used for both rounds of lesson proposal submissions.
+* [`word-cloud-of-lesson-proposal-content.png`](https://github.com/ucla-imls-open-sci/.github/blob/main/word-cloud-of-lesson-proposal-content.png): Visual artifact summarizing proposal themes.
