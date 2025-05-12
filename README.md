@@ -27,10 +27,18 @@ In addition to the required report and attachments, we recommend referencing the
 
 * [📁 IMLS Tools GitHub Repository](https://github.com/ucla-imls-open-sci/imls-tools): Includes scripts, checklists, and documentation to support lesson development, such as content check scripts, metadata templates, and workbench guides.
 * [🌐 Docs Hub](https://ucla-imls-open-sci.info/ucla-imls-docs/): Centralized documentation for the IMLS Open Science Lessons project. Includes evaluation rubrics, submission templates, collaborative lesson development training materials, and resource links.
-* [👥 Project Team](./project-team.md): Local UCLA-based team members involved in project management, development, and support.
-* [📋 Review Committee](./review-committee.md): Members of the external review committees who evaluated proposals.
-* [✍️ Lesson Authors](./lesson-authors.md): Contributors who created and developed lesson content.
-* `UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`: Defines the lesson proposal evaluation criteria used by the review committee.
-* `UCLA-IMLS-Similarity Rubric.docx`: Used to assess topic and audience overlap between lesson submissions.
+* [👥 Project Team](./Local-Project-Team.md): Local UCLA-based team members involved in project management, development, and support.
+* [📋 Review Committee](./Review-Committee.md): Members of the external review committees who evaluated proposals.
+* [✍️ Lesson Authors](./Project-Authors.md): Contributors who created and developed lesson content.
 
-These materials offer insight into the project’s methodology and may be useful for others developing similar programs.
+#### 📄 Core Documents
+
+* [`Lesson Design Notes Template.pdf`](./Lesson%20Design%20Notes%20Template.pdf)
+* [`Lesson Design Notes Template_ Python Intro for Libraries.pdf`](./Lesson%20Design%20Notes%20Template_%20Python%20Intro%20for%20Libraries.pdf)
+* [`Lesson Design_ Collaborative Multilingual Search and Discovery Systems.pdf`](./Lesson%20Design_%20Collaborative%20Multilingual%20Search%20and%20Discovery%20Systems.pdf)
+* [`Lesson_Dev_Checkilst.md`](./Lesson_Dev_Checkilst.md)
+* [`Slides UCLA-IMLS Collaborative Lesson Dev Slides.pdf`](./Slides%20UCLA-IMLS%20Collaborative%20Lesson%20Dev%20Slides.pdf)
+* [`UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`](./UCLA-IMLS%20Open%20Science%20Librarians%20Evaluation%20Criteria_2024.docx)
+* [`UCLA-IMLS-Carpentries-WorkbenchGuide.pdf`](./UCLA-IMLS-Carpentries-WorkbenchGuide.pdf)
+* [`submission_template.pdf`](./submission_template.pdf)
+* [`word-cloud-of-lesson-proposal-content.png`](./word-cloud-of-lesson-proposal-content.png)
