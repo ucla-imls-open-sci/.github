@@ -16,9 +16,8 @@ and collaborate with faculty and researchers in science projects using open scie
 | [Reproducible Research Workflows](https://librarycarpentry.github.io/lc-reproducible-research/) | Agata Bochynska | pre-alpha | [Link](https://github.com/LibraryCarpentry/lc-reproducible-research) |
 | [Research Community Outreach with Open Science Team Agreements](https://librarycarpentry.github.io/lc-team-agreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
 | [Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians](https://kerchner.github.io/lc-open-reproducible-research-cloud/) | Daniel Kerchner | pre-alpha | [Link](https://github.com/kerchner/lc-open-reproducible-research-cloud) |
-| Open science hardware: an introduction for librarians | Julieta Arancio | pre-alpha | |
+| Open science hardware: an introduction for librarians | Julieta Arancio | incomplete | |
 | Collaborative Multilingual Search and Discovery Systems | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
-
 
 ---
 
@@ -28,6 +27,9 @@ In addition to the required report and attachments, we recommend referencing the
 
 * [📁 IMLS Tools GitHub Repository](https://github.com/ucla-imls-open-sci/imls-tools): Includes scripts, checklists, and documentation to support lesson development, such as content check scripts, metadata templates, and workbench guides.
 * [🌐 Docs Hub](https://ucla-imls-open-sci.info/ucla-imls-docs/): Centralized documentation for the IMLS Open Science Lessons project. Includes evaluation rubrics, submission templates, collaborative lesson development training materials, and resource links.
+* [👥 Project Team](./project-team.md): Local UCLA-based team members involved in project management, development, and support.
+* [📋 Review Committee](./review-committee.md): Members of the external review committees who evaluated proposals.
+* [✍️ Lesson Authors](./lesson-authors.md): Contributors who created and developed lesson content.
 * `UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`: Defines the lesson proposal evaluation criteria used by the review committee.
 * `UCLA-IMLS-Similarity Rubric.docx`: Used to assess topic and audience overlap between lesson submissions.
 
