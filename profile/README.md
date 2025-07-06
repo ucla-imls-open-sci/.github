@@ -17,7 +17,7 @@ and collaborate with faculty and researchers in science projects using open scie
 | [Research Community Outreach with Open Science Team Agreements](https://librarycarpentry.github.io/lc-team-agreements/) | Samantha Teplitzky <br/> Ariel Deardorff <br/> Samantha Wilairat | alpha | [Link](https://github.com/LibraryCarpentry/lc-team-agreements) |
 | [Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians](https://kerchner.github.io/lc-open-reproducible-research-cloud/) | Daniel Kerchner | pre-alpha | [Link](https://github.com/kerchner/lc-open-reproducible-research-cloud) |
 | [Open science hardware: an introduction for librarians](https://ucla-imls-open-sci.info/lc-open-hw/) | Julieta Arancio | pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-open-hw) |
-| Collaborative Multilingual Search and Discovery Systems | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
+| [Collaborative Multilingual Search and Discovery Systems](https://ucla-imls-open-sci.info/lc-multilingual-search-discovery-system/) | Eric Silberberg <br/> Jesus Alonso-Regalado <br/> Cate Kellett| pre-alpha | [Link](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
 
 ---
 
