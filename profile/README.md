@@ -5,7 +5,7 @@ and collaborate with faculty and researchers in science projects using open scie
 | ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://librarycarpentry.github.io/lc-collaborative-science/) | Irene Vazano <br/> Jessica Formoso | alpha | [Link](https://github.com/LibraryCarpentry/lc-collaborative-science) |
-| [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | alpha | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
+| [Data Management (and Sharing) Plans for Librarians 101](https://librarycarpentry.org/lc-dmp101/) | Lena Bohman <br/> Marla Hertz <br/> Daria Orlowska | beta | [Link](https://github.com/LibraryCarpentry/lc-dmp101) |
 | [Open Qualitative Research](https://librarycarpentry.github.io/lc-open-qualitative-research/) | Nathaniel Porter | alpha | [Link](https://github.com/LibraryCarpentry/lc-open-qualitative-research) |
 | [Authoring Open Science](https://ucla-imls-open-sci.info/lc-authoring-open-science/) | Kathryn Miller <br/> Andrea Medina-Smith | alpha | [Link](https://github.com/ucla-imls-open-sci/lc-authoring-open-science) |
 | [A Gentle, Hands-on Introduction to Containers and Virtual Machines](https://ual-re.github.io/lc-containers_vms/) | Fernando Rios <br/> Jeffrey Oliver | alpha | [Link](https://github.com/UAL-RE/lc-containers_vms) |
