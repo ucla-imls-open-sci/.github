@@ -2,6 +2,12 @@ Hello, this is the UCLA IMLS Open Science GitHub. Our goal is to develop and cre
 These lessons seek to support continued skills development for librarians in open science to effectively provide instruction to new researchers 
 and collaborate with faculty and researchers in science projects using open science practices. In here, you will find these Open Science Lessons in and out of development using the Carpentries Workbench.
 
+ ## Our Curriculum
+
+ <!-- START_LESSON_TABLE -->
+
+<!-- END_LESSON_TABLE -->
+
 | ***Lesson Website*** | ***Authors*** | ***Status*** | ***GitHub Repo*** |
 |--------------|---------------|--------------|------------------------|
 | [A Path to Open, Inclusive, and Collaborative Science for Librarians](https://librarycarpentry.github.io/lc-collaborative-science/) | Irene Vazano <br/> Jessica Formoso | alpha | [Link](https://github.com/LibraryCarpentry/lc-collaborative-science) |
