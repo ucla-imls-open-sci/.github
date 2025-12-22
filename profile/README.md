@@ -5,6 +5,23 @@ and collaborate with faculty and researchers in science projects using open scie
  ## Our Curriculum
 
  <!-- START_LESSON_TABLE -->
+| Lesson | Status | Links |
+| :--- | :--- | :--- |
+| Open and Reproducible Research Cloud Workflows: A Firsthand Experience for Librarians | 🟡 alpha | [Website](https://kerchner.github.io/lc-open-reproducible-research-cloud/) / [Repo](https://github.com/kerchner/lc-open-reproducible-research-cloud) |
+| Collaborative Multilingual Search and Discovery Systems | 🟡 alpha | [Website](http://ucla-imls-open-sci.info/lc-multilingual-search-discovery-system/) / [Repo](https://github.com/ucla-imls-open-sci/lc-multilingual-search-discovery-system) |
+| Authoring Open Science | 🟡 alpha | [Website](https://ucla-imls-open-sci.info/lc-authoring-open-science/) / [Repo](https://github.com/ucla-imls-open-sci/lc-authoring-open-science) |
+| Building an Open Science Community of Practice | 🟡 pre-Alpha | [Website](https://ucla-imls-open-sci.info/lc-open-science-community-of-practice/) / [Repo](https://github.com/ucla-imls-open-sci/lc-open-science-community-of-practice) |
+| A gentle, hands-on introduction to containers and virtual machines | 🟡 pre-Alpha | [Website](https://ual-re.github.io/lc-containers_vms/) / [Repo](https://github.com/UAL-RE/lc-containers_vms) |
+| Open Science Discovery Engines: Empowering Librarian Use Through a Case Study Exploration of the NASA Science Explorer | 🟡 pre-Alpha | [Website](http://ucla-imls-open-sci.info/lc-scix-open-science/) / [Repo](https://github.com/ucla-imls-open-sci/lc-scix-open-science) |
+| Creating Data Dashboards for Open Science Using the R Programming Language | 🟡 alpha | [Website](https://aranganath24.github.io/data-dashboard-carpentries/) / [Repo](https://github.com/aranganath24/data-dashboard-carpentries) |
+| Leveraging Open Research and Contributor IDs (ORCID) for Librarians | 🟡 pre-Alpha | [Website](https://firbolg.github.io/LC_ORCID/) / [Repo](https://github.com/firbolg/LC_ORCID) |
+| Research Community Outreach with Open Science Team Agreements | 🟡 Alpha | [Website](https://librarycarpentry.github.io/lc-team-agreements/) / [Repo](https://github.com/LibraryCarpentry/lc-team-agreements) |
+| A Path to Open, Inclusive, and Collaborative Science for Librarians | 🟡 Alpha | [Website](https://librarycarpentry.github.io/lc-collaborative-science/) / [Repo](https://github.com/LibraryCarpentry/lc-collaborative-science) |
+| Data Management (and Sharing) Plans for Librarians 101 | 🟢 Beta | [Website](https://librarycarpentry.org/lc-dmp101/) / [Repo](https://github.com/LibraryCarpentry/lc-dmp101) |
+| Open Qualitative Research (Taguette) | 🟡 Alpha | [Website](https://librarycarpentry.github.io/lc-open-qualitative-research) / [Repo](https://github.com/LibraryCarpentry/lc-open-qualitative-research) |
+| Open Qualitative Research (QualCoder) | 🟢 Beta | [Website](https://librarycarpentry.github.io/open-qualitative-research-qualcoder/) / [Repo](https://github.com/LibraryCarpentry/open-qualitative-research-qualcoder) |
+| Reproducible Research Workflows | 🟡 pre-Alpha | [Website](https://librarycarpentry.github.io/lc-reproducible-research/) / [Repo](https://github.com/LibraryCarpentry/lc-reproducible-research) |
+| Open science hardware: an introduction for librarians | 🟡 pre-Alpha | [Website](https://github.com/ucla-imls-open-sci/lc-open-hw/) / [Repo](https://github.com/ucla-imls-open-sci/lc-open-hw) |
 
 <!-- END_LESSON_TABLE -->
 
