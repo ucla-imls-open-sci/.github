@@ -31,6 +31,7 @@ and collaborate with faculty and researchers in science projects using open scie
 
 In addition to the lessons above, the following resources were produced to support curriculum development, evaluation, and training:
 
+* [📊 IMLS Final Performance Report](https://github.com/ucla-imls-open-sci/ucla-imls-open-sci.github.io/blob/main/reports/imls/final-performance-report/IMLS_Final_Performance_Report_SUBMITTED_2025-12-16.pdf): The official final report submitted to IMLS detailing project outcomes and metrics.
 * [📁 IMLS Tools Repository](https://github.com/ucla-imls-open-sci/imls-tools): Scripts, templates, and automation tools for lesson development and metadata validation.
 * [🌐 Docs Hub](https://ucla-imls-open-sci.info/ucla-imls-docs/): Author-facing documentation including onboarding, SMART objective guides, and Workbench usage tips.
 * [`UCLA-IMLS Open Science Librarians Evaluation Criteria_2024.docx`](https://github.com/ucla-imls-open-sci/.github/blob/main/UCLA-IMLS%20Open%20Science%20Librarians%20Evaluation%20Criteria_2024.docx): Final proposal evaluation rubric used by the review committee.
